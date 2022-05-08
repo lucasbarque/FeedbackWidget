@@ -11,9 +11,9 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="Course Platform" src=".github/logo.svg" width="120px">
-</p>
+</p> -->
 
 ## 💻 Project
 
