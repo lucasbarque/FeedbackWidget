@@ -34,6 +34,7 @@ This project was developed using the following technologies:
 - [TailwindCSS](https://tailwindcss.com/)
 - [HeadlessUI](https://headlessui.dev/)
 - [PhosphorIcons](https://phosphoricons.com/)
+- [ViteJS](https://vitejs.dev/)
 
 ## 🚀 Getting started
 
