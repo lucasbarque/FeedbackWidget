@@ -35,7 +35,6 @@ export class SubmitFeedbackUseCase {
       comment,
       screenshot,
     });
-
     await this.mailAdapter.sendMail({
       subject: 'Novo feedback',
       body: [
