@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img alt="Course Platform" title="Course Platform" src=".github/preview.mp4" />    
-</h1>
+https://user-images.githubusercontent.com/8497405/168439012-a8019062-2f12-471f-9d4e-5110a49dc066.mp4
 
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
