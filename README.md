@@ -1,6 +1,5 @@
 <h1 align="center">
-    <!-- <img alt="Course Platform" title="Course Platform" src=".github/preview.gif" /> -->
-    Application in development 👷...
+    <img alt="Course Platform" title="Course Platform" src=".github/preview.mp4" />    
 </h1>
 
 <p align="center">
@@ -9,11 +8,9 @@
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
 </p>
 
-<br>
+## 🔥 Preview
 
-<!-- <p align="center">
-  <img alt="Course Platform" src=".github/logo.svg" width="120px">
-</p> -->
+[![Deploy with Vercel](https://vercel.com/button)](https://moveit-lucasbarque.vercel.app/)
 
 ## 💻 Project
 
@@ -34,6 +31,8 @@ This project was developed using the following technologies:
 - [TailwindCSS](https://tailwindcss.com/)
 - [HeadlessUI](https://headlessui.dev/)
 - [PhosphorIcons](https://phosphoricons.com/)
+- [ViteJS](https://vitejs.dev/)
+- [Railway](https://railway.app/)
 
 ## 🚀 Getting started
 
