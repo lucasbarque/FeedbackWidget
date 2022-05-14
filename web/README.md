@@ -35,6 +35,7 @@ This project was developed using the following technologies:
 - [HeadlessUI](https://headlessui.dev/)
 - [PhosphorIcons](https://phosphoricons.com/)
 - [ViteJS](https://vitejs.dev/)
+- [Railway](https://railway.app/)
 
 ## 🚀 Getting started
 
