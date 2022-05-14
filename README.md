@@ -10,7 +10,7 @@
 
 ## 🔥 Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://moveit-lucasbarque.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://feedback-widget-mu.vercel.app/)
 
 ## 💻 Project
 
